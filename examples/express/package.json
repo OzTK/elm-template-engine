@@ -22,7 +22,7 @@
     "debug": "~2.6.3",
     "elm": "^0.18.0",
     "express": "~4.15.2",
-    "morgan": "~1.8.1",
+    "morgan": "~1.9.1",
     "npm-watch": "^0.2.0",
     "serve-favicon": "~2.4.2"
   }
